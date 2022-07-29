@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ryus123
 - 👀 I’m interested in programing
-- 🌱 I’m currently studying @ Rennes University
+- 🌱 I’m currently studying @ Rennes 1 University
 - 💞️ I’m looking to collaborate on Big data
 - 📫 How to reach me send me a message 
 
