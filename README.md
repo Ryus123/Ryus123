@@ -7,7 +7,7 @@
 ## 📊 GitHub Stats  
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github-readme-stats.vercel.app/api?username=Ryus123&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryus123&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryus123&layout=compact&theme=radical" width="45%" />
 </div>
 
 <!---
