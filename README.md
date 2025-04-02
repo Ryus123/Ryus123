@@ -2,7 +2,7 @@
 - 👀 I’m interested in Applied Mathematics and Computer Science  
 - 🌱 I’m currently studying @ PSL University (Paris-Dauphine, ENS-ULM, and Mines-Paris)  
 - 💞️ I’m looking to collaborate on Advanced Machine Learning topics  
-- 📫 How to reach me: send me a message  
+- 📫 How to reach me: delaremmarius@gmail.com  
 
 ## 📊 GitHub Stats  
 <div style="display: flex; justify-content: space-around;">
